@@ -1,0 +1,1 @@
+C:\Users\ULTRON\Desktop\AIMS\sumo\randomTrips.py -n notls.net.xml -r notls.rou.xml -e 50 -l
