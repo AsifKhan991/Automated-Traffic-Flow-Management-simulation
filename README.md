@@ -3,4 +3,4 @@ This repository contains all the files necessary for running intersection simula
 Download [SUMO](https://sumo.dlr.de/docs/Downloads.php)<br>
 To know basic operations checkout the [SUMO documentation](https://sumo.dlr.de/docs/index.html)<br>
 Download [python](https://www.python.org/downloads/)<br>
-Check the demonstration [here](https://sites.google.com/view/md-asifuzzaman-khan/automated-traffic-flow-management-simulation-on-sumo).
+Check the demonstration [here](https://www.youtube.com/watch?v=am6EPwougH0).
